@@ -311,6 +311,7 @@ main {
     border: 1px solid #ccc;
     border-radius: 6px;
     font-size: 1rem;
+    margin-bottom: 100px;
 }
 
 /* Make the button stand out */
